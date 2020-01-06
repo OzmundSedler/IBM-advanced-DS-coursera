@@ -8,4 +8,4 @@ ___
 ### [1 Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds)
 * [Homework](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/tree/master/1%20Fundamentals%20of%20scalable%20DS/assignments)
 * [Lectures notebooks](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/tree/master/1%20Fundamentals%20of%20scalable%20DS/lecture_notebooks)
-* [Resources](/1%20Mathematics%20and%20Python/Interesting%20resources.docx)
+* [Resources](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/blob/master/1%20Fundamentals%20of%20scalable%20DS/resources.MD)
