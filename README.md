@@ -6,6 +6,6 @@ ___
 ___
 
 ### [1 Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds)
-* [Homework](/1%20Mathematics%20and%20Python/Homework)
-* [Lectures notebooks](/1%20Mathematics%20and%20Python/Lectures%20notebooks)
+* [Homework](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/tree/master/1%20Fundamentals%20of%20scalable%20DS/assignments)
+* [Lectures notebooks](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/tree/master/1%20Fundamentals%20of%20scalable%20DS/lecture_notebooks)
 * [Resources](/1%20Mathematics%20and%20Python/Interesting%20resources.docx)
