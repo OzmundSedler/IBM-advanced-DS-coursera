@@ -32,4 +32,7 @@ ___
 * [Notebooks](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/tree/master/1%20Fundamentals%20of%20scalable%20DS/assignments)
 * [Resources](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/blob/master/4%20Capstone%20/resources.MD)
 * [Certificate](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/blob/master/4%20Capstone%20/Coursera%208FKW5XJFBKNM.pdf)
+* [Presentation for Stakeholders](https://docs.google.com/presentation/d/1kKrSJYhzcADRGrSEO2AcX1CCxpSbegdTbvhIdHuqNKs/edit?usp=sharing)
+* [Presentations for peers](https://docs.google.com/presentation/d/1LCGfTdx7ukt1-Ny4LUef75mokOx7zn5C6llwNLBimAQ/edit?usp=sharing)
+* [Video](https://www.youtube.com/watch?v=ddevws5KCjY&feature=youtu.be)
 
