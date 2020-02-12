@@ -1,5 +1,13 @@
 # Resources
 
+## Presentations/Video
+
+[Presentation for Stakeholders](https://docs.google.com/presentation/d/1kKrSJYhzcADRGrSEO2AcX1CCxpSbegdTbvhIdHuqNKs/edit?usp=sharing)
+
+[Presentations for peers](https://docs.google.com/presentation/d/1LCGfTdx7ukt1-Ny4LUef75mokOx7zn5C6llwNLBimAQ/edit?usp=sharing)
+
+[Video](https://www.youtube.com/watch?v=ddevws5KCjY&feature=youtu.be)
+
 ## Project Data
 
 [Source 1](https://www.cbioportal.org/study/clinicalData?id=brca_metabric)
