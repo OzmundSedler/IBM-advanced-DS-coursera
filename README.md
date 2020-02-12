@@ -29,7 +29,7 @@ ___
 ___
 
 ### [4 Capstone project](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/tree/master/4%20Capstone%20)
-* [Notebooks](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/tree/master/1%20Fundamentals%20of%20scalable%20DS/assignments)
+* [Notebooks](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/tree/master/4%20Capstone%20/Notebooks)
 * [Resources](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/blob/master/4%20Capstone%20/resources.MD)
 * [Certificate](https://github.com/OzmundSedler/IBM-advanced-DS-coursera/blob/master/4%20Capstone%20/Coursera%208FKW5XJFBKNM.pdf)
 * [Presentation for Stakeholders](https://docs.google.com/presentation/d/1kKrSJYhzcADRGrSEO2AcX1CCxpSbegdTbvhIdHuqNKs/edit?usp=sharing)
